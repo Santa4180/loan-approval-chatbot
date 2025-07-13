@@ -1,0 +1,6 @@
+pandas
+faiss-cpu
+sentence-transformers
+openai
+transformers
+streamlit
